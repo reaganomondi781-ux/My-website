@@ -6,7 +6,7 @@
   <title>My First Webpage</title> 
   </style>
   <section class="gallery">
-    <img src="images.jpg" alt="gallery">
+    <img src="hildah.jpg" alt="gallery">
 </head>
 <body>
   <h1>Hello, World! 🌍</h1>
